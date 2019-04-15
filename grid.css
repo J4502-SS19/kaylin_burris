@@ -4,8 +4,8 @@
 }
 
 nav ul {
-  display:flex;
-  flex-flow: column;
+  display:none;
+
 }
 
 .authorbox img {
