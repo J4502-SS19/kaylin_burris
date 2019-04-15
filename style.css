@@ -76,3 +76,20 @@ img {
   justify-content: center}
 
 }
+
+nav ul li {
+    border-top: none;
+  }
+
+  .menu-trigger {
+    display: none;
+  }
+
+  header h1 {
+    order: 1;
+  }
+
+  nav {
+    order: 2;
+  }
+}
